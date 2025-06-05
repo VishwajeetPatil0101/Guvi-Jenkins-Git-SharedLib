@@ -1,1 +1,0 @@
-# Guvi-Jenkins-Git-SharedLib
